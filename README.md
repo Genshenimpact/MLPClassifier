@@ -1,2 +1,3 @@
 # MLPClassifier
 Machine Learning with MLPClassifier
+本实验是机器学习作业神经网络分类代码，调用sklearn中的MLPClassifier实现
